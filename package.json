@@ -1,0 +1,27 @@
+{
+  "name": "expressed",
+  "version": "0.0.1",
+  "description": "ExpressJS Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/programmatical/expressed.git"
+  },
+  "keywords": [
+    "expressjs",
+    "boilerplate"
+  ],
+  "author": "programmatical",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/programmatical/expressed/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "sequelize": "~3.12.2",
+    "swig": "~1.4.2"
+  }
+}
